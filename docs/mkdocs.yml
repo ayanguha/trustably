@@ -1,0 +1,64 @@
+site_name: trustably
+nav:
+  - index.md
+  - AI Enablement Framework: 
+    - core.md
+    - trait.md
+    - focus_areas.md 
+    - lifecycle.md
+    - personas.md 
+    - risk_actions.md 
+  
+
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+  font:
+    text: Google Sans
+  palette:
+    scheme: light
+    primary: blue grey
+    accent: indigo
+  features:
+    - navigation.path
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.footer
+  icon:
+    logo: simple/ticktick
+
+# Markdown extensions
+markdown_extensions:
+  - attr_list
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details 
+  - md_in_html
+  - pymdownx.blocks.caption
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/ayanguha
+      name: trustably 
+copyright: Copyright &copy; trustably
+
+extra_css:
+  - stylesheets/extra.css
+  - assets/graph.css
+
+extra_javascript:
+  - https://unpkg.com/vis-network/standalone/umd/vis-network.min.js
+  - assets/graph-view.js
+
+
+  

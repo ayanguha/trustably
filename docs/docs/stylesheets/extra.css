@@ -1,0 +1,36 @@
+.md-typeset .admonition.trustably,
+.md-typeset details.trustably {
+  border-color: rgb(51, 51, 51);
+}
+.md-typeset .trustably > .admonition-title,
+.md-typeset .trustably > summary {
+  background-color: rgb(51, 51, 51);
+  color: rgb(255,255,255);
+}
+.md-typeset .trustably > .admonition-title::before,
+.md-typeset .trustably > summary::before {
+  background-color: rgb(51, 51, 51);
+  color: rgb(255,255,255);
+  -webkit-mask-image: var(--md-admonition-icon--trustably);
+          mask-image: var(--md-admonition-icon--trustably);
+}
+
+:root {  
+  --md-footer-bg-color:  rgb(83,104,114); 
+  --md-footer-fg-color: white;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  color: rgb(51, 51, 51)
+}
+
+
+.md-typeset .admonition,
+.md-typeset details {
+  font-size: 14px; /* Adjust this value to your desired size (e.g., 16px, 1.1rem) */
+}
