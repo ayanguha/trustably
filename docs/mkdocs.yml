@@ -8,6 +8,8 @@ nav:
     - lifecycle.md
     - personas.md 
     - risk_actions.md 
+  - Playbook:
+    - playbook.md 
   
 
 site_url: https://mydomain.org/mysite
