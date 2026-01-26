@@ -27,6 +27,12 @@ if trait_selection and focus_area_selection:
 if not trait_selection and not focus_area_selection:
     filtered_df = df
 
+sub_category_options = ["Active Awareness","Purpose","Roles & Responsibility",
+                        "AI Risk Management","Artefact Inventory","Change Management",
+                        "Standards and Policies ","Define and Instrument ","Evaluate and Measure ",
+                        "Monitor and Action","Automation","Integration and Collaboration ",
+                        "Resilience","Access Control","Data Classification and Controls","Guardrails"]
+
 st.write(f"Total Records: {filtered_df.shape[0]}")
 
 st.dataframe(filtered_df, 
@@ -43,6 +49,13 @@ st.dataframe(filtered_df,
                             "Focus Area",
                             options=focus_area_options,
                             color=["#e6e6e6", "#ffcfc9", "#bfe1f6", "#b10202", "#d4edbc"],
+                            format_func=lambda x: x.capitalize(),
+                            width=100, 
+                        ),
+                        "Sub Category": st.column_config.MultiselectColumn(
+                            "Sub Category",
+                            options=sub_category_options,
+                            color=("blue," * len(sub_category_options)).split(','),
                             format_func=lambda x: x.capitalize(),
                             width=100, 
                         ),
