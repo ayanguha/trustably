@@ -1,11 +1,8 @@
 
 
 # Risk and Best Practices
-Here is an interactive Streamlit application embedded in the documentation:
 
-<iframe src="https://trustably-olzsp64nmkzbtxxgr2zdwr.streamlit.app//?embed=true"
-        width="100%"
-        height="1000"
-        frameborder="0"
-        scrolling="no">
-</iframe>
+This section provides a comprehensive list of Suggested actions across Traits, Focus Areas and sub-areas. 
+
+
+[Go To List](https://trustably-olzsp64nmkzbtxxgr2zdwr.streamlit.app/){ .md-button .md-button--primary}

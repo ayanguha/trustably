@@ -1,11 +1,11 @@
-# Playbook
+## Playbook
 
 
-Here is an interactive Streamlit application embedded in the documentation:
+This application is a guided assessment for AI Systems. At the end of the assessment, a report will be provided indicating:
 
-<iframe src="https://trustably-olzsp64nmkzbtxxgr2zdwr.streamlit.app//?embed=true"
-        width="100%"
-        height="1000"
-        frameborder="0"
-        scrolling="no">
-</iframe>
+1. Maturity
+2. Identified Risks
+3. Suggested actions
+4. Comprehensive roadmap
+
+![coming soon](images/coming_soon.jpeg){ width="1000" }
