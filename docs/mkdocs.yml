@@ -17,7 +17,7 @@ theme:
     text: Google Sans
   palette:
     scheme: light
-    primary: green
+    primary: blue grey
     accent: indigo
   features:
     - navigation.path
