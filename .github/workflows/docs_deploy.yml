@@ -8,7 +8,7 @@ on:
           default: 'info'
   push:
     paths:
-      - 'docs/*'
+      - 'docs/**'
 permissions:
   contents: write
 jobs:
