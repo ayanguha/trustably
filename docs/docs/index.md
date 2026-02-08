@@ -1,18 +1,35 @@
 ---
 hide:
   - navigation
+  - toc
 ---
 
-# trustably
+<!-- HERO -->
+<div class="hero">
 
-We help businesses to build, deploy and run better AI systems.
+  <div class="hero-content">
+    <h1>Build Safe, Reliable, and Trustworthy AI Solutions</h1>
 
-## Build Safe, Reliable, and Trustworthy AI Solutions
+    <p class="hero-subtitle">
+      We help businesses to build, deploy and run better AI systems.
+    </p>
 
-In this rapidly changing technology landscape, the single most important factor for success is building safe, reliable, and trustworthy AI and Agentic solutions. At the same time it is often the most underrated aspect and often overlooked in the noise. We are here to help you navigate this complexity with clarity and confidence.
 
-[Learn More](core.md){ .md-button .md-button--primary} 
+    <div class="hero-actions">
+      <a href="../core" class="md-button md-button--primary">
+        Learn More
+      </a>
+      <a href="../playbook/" class="md-button">
+        Playbook
+      </a>
+    </div>
 
+    
+  </div>
+
+</div>
+
+---
 ## Solutions
 
 === "Accelerators"
@@ -47,29 +64,29 @@ In this rapidly changing technology landscape, the single most important factor 
 
 <div class="grid cards" markdown>
 
--   Agentic AI and Observability
+-   :fontawesome-brands-magento:{ .trustably } **Agentic AI and Observability**
 
     ---
 
     How to build observability into your agentic AI systems from day one
 
-    [Read](#)
+    :fontawesome-solid-arrow-right: [Read](#)
 
--   If it is not measured, it didn't happen
+-   :fontawesome-solid-magnifying-glass-chart:{ .trustably } **If it is not measured, it didn't happen**
 
     ---
 
     Measure quality and performance in distributed and compoundAI systems.
 
-    [Read](#)
+    :fontawesome-solid-arrow-right: [Read](#)
 
--   Plan for the Worst, Hope for the Best
+-  :fontawesome-solid-medkit:{ .trustably } **Plan for the Worst, Hope for the Best**
 
     ---
 
     Prepare for potential failures in AI systems; and how to prevent them.
 
-    [Read](#)
+    :fontawesome-solid-arrow-right: [Read](#)
 
 
 </div>

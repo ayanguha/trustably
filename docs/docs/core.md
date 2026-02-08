@@ -8,6 +8,8 @@
 
     Artificial intelligence (AI) represents a material technological capability with significant implications for enterprise operations, risk posture, and societal impact. While AI lowers barriers to innovation and enables scalable solutions across business functions and customer segments, it simultaneously introduces a distinct and evolving set of risks. 
 
+    In this rapidly changing technology landscape, the single most important factor for success is building safe, reliable, and trustworthy AI and Agentic solutions. At the same time it is often the most underrated aspect and often overlooked in the noise. We are here to help you navigate this complexity with clarity and confidence.
+
     ??? trustably  "Opinion"
 
         As AI-enabled and AI-augmented systems become easier to develop and deploy, the complexity of ensuring their reliability, safety, and trustworthiness increases correspondingly, requiring deliberate governance and oversight.

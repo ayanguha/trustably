@@ -8,15 +8,17 @@ AI Enablement Framework organises risks, best practices and maturity models acro
 
 ### Culture
 
+
+
+??? trustably  "Intention of Use"
+
+    TBD
+
+??? trustably  "Operating Model"
+
+    TBD
+
 ??? trustably  "Active Awareness"
-
-    TBD
-
-??? trustably  "Purpose"
-
-    TBD
-
-??? trustably  "Roles & Responsibility"
 
     TBD
 
@@ -63,7 +65,7 @@ AI Enablement Framework organises risks, best practices and maturity models acro
 
     TBD
 
-??? trustably  "Guardrails"
+??? trustably  "Safe Guards & Guardrails"
 
     TBD
 
@@ -82,7 +84,7 @@ AI Enablement Framework organises risks, best practices and maturity models acro
 
     TBD
 
-??? trustably  "MResiliencen"
+??? trustably  "Resilience"
 
     TBD
 

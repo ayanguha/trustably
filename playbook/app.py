@@ -1,6 +1,5 @@
 import pandas as pd
 import streamlit as st
-from numpy.random import default_rng as rng
 st.set_page_config(layout="wide")
 
 df = pd.read_csv('./playbook/actions.csv')
