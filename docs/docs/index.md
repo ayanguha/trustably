@@ -16,10 +16,10 @@ hide:
 
 
     <div class="hero-actions">
-      <a href="../core" class="md-button md-button--primary">
+      <a href="core" class="md-button md-button--primary">
         Learn More
       </a>
-      <a href="../playbook/" class="md-button">
+      <a href="playbook/" class="md-button">
         Playbook
       </a>
     </div>
